@@ -6,7 +6,6 @@ import org.openqa.selenium.WebDriver;
 import co.com.computrabajo.exeptions.*;
 
 import co.com.computrabajo.models.Data;
-import co.com.computrabajo.questions.RegisterArea;
 import co.com.computrabajo.questions.SigInForm;
 import co.com.computrabajo.testing.tasks.ClickInSubmit;
 import co.com.computrabajo.testing.tasks.ClickSignInAreaButton;

@@ -14,6 +14,7 @@ Background:
     | name   | surname   | email   | password   | position   | location   |
     | <name> | <surname> | <email> | <password> | <position> | <location> |
     Then Adrian validates that email is registered
+ 
     
    Examples:
     		| name   | surname  | email          							| password | position     | location 		|
